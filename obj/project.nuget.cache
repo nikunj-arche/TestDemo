@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cY2gpLFhCnU0JjDyVBYikqMi/bg5uaawTTlxmIXXKRI2GOoQIB8C3CvG/WxyWunsp3fnm9ZxV08Ow6gTqrfIHw==",
+  "dgSpecHash": "KsIxm/aacf3q23MFs+cJOr7wJIaqbLrNB4S+gH+DnAQdUjcg8kU3Ke3x3vdnYErwkHoN/weVmFUtlgZeaWxC+Q==",
   "success": true,
-  "projectFilePath": "C:\\Archie Projects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Archie Projects\\TestProject\\TestDemo\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HI\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

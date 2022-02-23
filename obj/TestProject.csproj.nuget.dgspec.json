@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Archie Projects\\TestProject\\TestProject.csproj": {}
+    "C:\\Archie Projects\\TestProject\\TestDemo\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Archie Projects\\TestProject\\TestProject.csproj": {
+    "C:\\Archie Projects\\TestProject\\TestDemo\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Archie Projects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Archie Projects\\TestProject\\TestDemo\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Archie Projects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Archie Projects\\TestProject\\TestDemo\\TestProject.csproj",
         "packagesPath": "C:\\Users\\HI\\.nuget\\packages\\",
-        "outputPath": "C:\\Archie Projects\\TestProject\\obj\\",
+        "outputPath": "C:\\Archie Projects\\TestProject\\TestDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HI\\AppData\\Roaming\\NuGet\\NuGet.Config",
